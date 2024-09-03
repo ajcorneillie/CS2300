@@ -1,0 +1,4 @@
+Name: Alex Corneillie
+GitHub: ajcorneillie
+Date: 9/2/24
+Assignment: GitHub Setup
